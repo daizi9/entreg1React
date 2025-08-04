@@ -6,8 +6,8 @@ import ItemListContainer from './components/ItemList';
 function App() {
   return (
     <>
-      <NavBar />
-      <ItemListContainer greeting="Bienvenido a Hana no Mise, tu floristería japonesa 🌸" />
+      <navbar />
+      <ItemList greeting="Bienvenido la Floreria Japonesa 🌸" />
     </>
   );
 }
